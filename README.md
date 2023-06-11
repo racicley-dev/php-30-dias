@@ -8,3 +8,5 @@
   - Regras:
     - Commitar todos os dias, em caso de algum problema, aplicar o zero nunca;
     - 1 hora/dia - em 2 ciclos de pomodoro;
+
+- Observação.: Os projetos deste repositório estão sendo baseados no curso [PHP - Do zero a maestria](https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/), os que eventualmente sejam autorais seram sinalizados como tal.
