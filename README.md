@@ -7,5 +7,4 @@
     
   - Regras:
     - Commitar todos os dias, em caso de algum problema, aplicar o zero nunca;
-    - Registrar um vídeo ou áudio do progresso do dia;
     - 1 hora/dia - em 2 ciclos de pomodoro;
