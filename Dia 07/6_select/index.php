@@ -7,7 +7,7 @@ $db = "cursophp";
 
 $conn = new mysqli($host,$user,$pass,$db);
 //CREATE
-$q = "SELECT * FROM pessoas";
+$q = "SELECT * FROM teste";
 $result = $conn->query($q);
 
 $pessoa = $result->fetch_assoc();
