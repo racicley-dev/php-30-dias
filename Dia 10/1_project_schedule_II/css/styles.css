@@ -1,0 +1,13 @@
+.navbar-brand img {
+    width: 50px;
+}
+
+#main-title {
+    text-align: center;
+    margin: 15px 0 30px;
+}
+
+/* HOME */
+#contacts-table {
+    max-width: 800px
+}
