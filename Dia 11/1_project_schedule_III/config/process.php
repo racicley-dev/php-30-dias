@@ -33,7 +33,7 @@ if(!empty($data)){
             echo "Error: $error";
         }
 
-
+    //Edit Contact
     }else if($data["type"] === "edit"){
         $id = $data['id'];
         $name = $data['name'];
